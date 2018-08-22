@@ -59,7 +59,7 @@
 		"array-type": [true],
 		"interface-name": [true, "never-prefix"],
 		"radix": false,
-		"typedef": [
+		"typedef": [true,
 			"parameter",
 			"arrow-parameter",
 			"call-signature",
