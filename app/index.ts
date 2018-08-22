@@ -1,23 +1,11 @@
-import { Application, Container, Text } from 'pixi.js';
+import { Application } from 'pixi.js';
 
-const app: Application = new Application(800, 600, { backgroundColor : 0x000000 });
+import { Game } from './lib/Game';
+
+const app: Application = new Application(536, 536, { backgroundColor : 0xFFFFFF });
 app.view.style.position = 'absolute';
 app.view.style.display = 'block';
 document.body.appendChild(app.view);
 
-const stage: Container = new Container();
-
-const message: Text = new Text(
-	'Hello Pixi!',
-	{ fontFamily: 'Arial', fontSize: 32, fill: 'white' }
-);
-
-message.position.set(app.view.width / 2 - message.width / 2, app.view.height / 2 - message.height / 2);
-stage.addChild(message);
-
-function gameLoop(): void {
-	app.renderer.render(stage);
-	requestAnimationFrame(gameLoop);
-}
-
-gameLoop();
+const game: Game = new Game(app);
+game.start();
