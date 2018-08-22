@@ -1,1 +1,1 @@
-## Trabalho de Engenharia de Software II - Chess
+## Trabalho de Engenharia de Software II - Chess [![Build Status](https://travis-ci.com/Mkalo/chess-es-ii.svg?branch=master)](https://travis-ci.com/Mkalo/chess-es-ii/)
