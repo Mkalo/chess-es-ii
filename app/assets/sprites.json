@@ -1,0 +1,108 @@
+{"frames": {
+
+"black-bishop.png":
+{
+	"frame": {"x":0,"y":0,"w":333,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"black-king.png":
+{
+	"frame": {"x":333,"y":0,"w":333,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"black-knight.png":
+{
+	"frame": {"x":666,"y":0,"w":333,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"black-pawn.png":
+{
+	"frame": {"x":999,"y":0,"w":333,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"black-queen.png":
+{
+	"frame": {"x":1332,"y":0,"w":333,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"black-rook.png":
+{
+	"frame": {"x":1665,"y":0,"w":333,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"white-bishop.png":
+{
+	"frame": {"x":0,"y":333,"w":333,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"white-king.png":
+{
+	"frame": {"x":333,"y":333,"w":333,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"white-knight.png":
+{
+	"frame": {"x":666,"y":333,"w":333,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"white-pawn.png":
+{
+	"frame": {"x":999,"y":333,"w":333,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"white-queen.png":
+{
+	"frame": {"x":1332,"y":333,"w":333,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"white-rook.png":
+{
+	"frame": {"x":1665,"y":333,"w":333,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":333},
+	"sourceSize": {"w":333,"h":333}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":1998,"h":666},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:37e3c55efcce825ebf4db9acd9381892:a41a0240851c5c7b66213ed8f2ea6fc3:1eabdf11f75e3a4fe3147baf7b5be24b$"
+}
+}
