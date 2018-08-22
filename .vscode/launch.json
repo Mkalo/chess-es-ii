@@ -7,11 +7,10 @@
         {
             "type": "node",
             "request": "launch",
-            "preLaunchTask": "npm: build",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/src\\index.ts",
+            "program": "${workspaceFolder}\\build",
             "outFiles": [
-                "${workspaceFolder}/build/**/*.js"
+                "${workspaceFolder}/**/*.js"
             ]
         }
     ]
