@@ -28,9 +28,6 @@ cache:
   directories:
     - node_modules
 
-git:
-  depth: 1
-
 branches:
   only:
     - /.*/
